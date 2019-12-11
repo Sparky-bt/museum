@@ -48,6 +48,25 @@
 
 - 当AR技术因网速不好难以加载时，提示：“哎哟~网速不好，小博走丢了，已经上报给程序员哥哥啦！”
 
+### 产品原型
+
+1、新用户注册
+
+![注册](https://github.com/Sparky-bt/museum/blob/master/%E6%96%B0%E7%94%A8%E6%88%B7.png)
+
+![问题](https://github.com/Sparky-bt/museum/blob/master/%E9%97%AE%E9%A2%98.png)
+
+2、路径
+
+![路径](https://github.com/Sparky-bt/museum/blob/master/%E8%B7%AF%E7%BA%BF1.png)
+
+![路径](https://github.com/Sparky-bt/museum/blob/master/%E8%B7%AF%E7%BA%BF2.png)
+
+3、AR
+
+![AR](https://github.com/Sparky-bt/museum/blob/master/ar1.png)
+
+
 ### 产品可行性
 1、比市面上的同类型产品相比，“小博”只是小程序，几乎不占据手机空间。
 2、相比于同类型产品的需要扫码进行展品导览，“小博”设计路线自动播放语音导览。
