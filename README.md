@@ -52,7 +52,7 @@
 
 1、新用户注册
 
-![注册](https://github.com/Sparky-bt/museum/blob/master/%E6%96%B0%E7%94%A8%E6%88%B7.png)
+![注册](https://github.com/Sparky-bt/museum/blob/master/%E5%9B%BE%E7%89%871.png)
 
 ![问题](https://github.com/Sparky-bt/museum/blob/master/%E9%97%AE%E9%A2%98.png)
 
