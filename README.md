@@ -52,19 +52,19 @@
 
 1、新用户注册
 
-![注册](https://github.com/Sparky-bt/museum/blob/master/%E5%9B%BE%E7%89%871.png)
+![注册](https://github.com/Sparky-bt/museum/blob/master/images/图片1.png)
 
-![问题](https://github.com/Sparky-bt/museum/blob/master/%E9%97%AE%E9%A2%98.png)
+![问题](https://github.com/Sparky-bt/museum/blob/master/images/问题.png)
 
 2、路径
 
-![路径](https://github.com/Sparky-bt/museum/blob/master/%E8%B7%AF%E7%BA%BF1.png)
+![路径](https://github.com/Sparky-bt/museum/blob/master/images/%E8%B7%AF%E7%BA%BF1.png)
 
-![路径](https://github.com/Sparky-bt/museum/blob/master/%E8%B7%AF%E7%BA%BF2.png)
+![路径](https://github.com/Sparky-bt/museum/blob/master/images/%E8%B7%AF%E7%BA%BF2.png)
 
 3、AR
 
-![AR](https://github.com/Sparky-bt/museum/blob/master/ar1.png)
+![AR](https://github.com/Sparky-bt/museum/blob/master/images/ar1.png)
 
 
 ### 产品可行性
